@@ -3,3 +3,6 @@ writing inside testing file
 under feature branch
 
 conflict - writing under master
+
+testing confilct now in feature
+
